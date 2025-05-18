@@ -24,9 +24,13 @@ pip install pytest
 pytest
 ```
 
+
+
+=======
 ## Автор
 Kodland
 Никита
 Sariel
 Дмитрий Горский
+Давид
 
