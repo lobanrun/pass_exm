@@ -26,6 +26,5 @@ pytest
 
 ## Автор
 
-Kodland
+Дмитрий Горский
 
-Dima
