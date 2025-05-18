@@ -29,11 +29,10 @@ pytest
 =======
 ## Автор
 
-<<<<<<<<< Temporary merge branch 1
+
 Kodland
 Никита
 Sariel
-=========
 Дмитрий Горский
 
->>>>>>>>> Temporary merge branch 2
+
