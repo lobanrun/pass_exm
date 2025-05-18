@@ -20,6 +20,18 @@ def test_empty_password():
     """Тест, что при генерации пароля длины 0 возвращается пустая строка"""
     password = generate_password(0)
     assert password == "", "Пароль не пустой"
+
+def test_password_uniqueness():
+    """Тест, что два сгенерированных подряд пароля различаются"""
+    password1 = generate_password(16)
+    password2 = generate_password(16)
+    assert password1 != password2
+
+def test_password_very_long():
+    """Тест генерации очень длинного пароля"""
+    password = generate_password(1000)
+    assert len(password) == 1000
+
 """
 Допиши еще один тест из предложенных. Или придумай свой.
 Если сможешь написать больше, то будет круто!
