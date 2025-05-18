@@ -24,6 +24,13 @@ pip install pytest
 pytest
 ```
 
-## Автор Давид
 
-Kodland 
+
+=======
+## Автор
+Kodland
+Никита
+Sariel
+Дмитрий Горский
+Давид
+
