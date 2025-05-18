@@ -27,4 +27,3 @@ pytest
 ## Автор
 
 Kodland
-Никита
